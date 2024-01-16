@@ -1,3 +1,7 @@
+// 숫자의 합
+// https://www.acmicpc.net/problem/11720
+
+package back_joon;
 import java.util.Scanner;
 
 public class BJ_11720 {
