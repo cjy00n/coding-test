@@ -1,5 +1,6 @@
 // 성격 유형 검사하기(2022 KAKAO TECH INTERNSHIP)
 // https://school.programmers.co.kr/learn/courses/30/lessons/118666
+
 function solution(survey, choices) {
   const MBTI = {};
   const types = ["RT", "CF", "JM", "AN"];
