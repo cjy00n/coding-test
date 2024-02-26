@@ -5,3 +5,5 @@ out
 .idea/
 coding-test.iml
 .DS_Store
+dev_stdin.txt
+bjtest.js
