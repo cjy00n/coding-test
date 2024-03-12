@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class PGS_250137 {
+public class PGS_250137 {
+    public static void main(String[] args) {
+        
+    }
 }
