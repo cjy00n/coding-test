@@ -62,7 +62,7 @@ public class PGS_172928 {
 
     public static class Main {
         public static void main(String[] args) {
-            Solution s = new Solution();
+            PGS_172928 s = new PGS_172928();
             String[] park = {"OSO", "OOO", "OXO", "OOO"};
             String[] routes = {"E 2", "S 3", "W 1"};
 
